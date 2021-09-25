@@ -8,9 +8,9 @@ public class Exercicio3 {
 
         Scanner sc = new Scanner(System.in);
 
-        int m1[][] = new int[2][2];
-        int m2[][] = new int[2][2];
-        int soma[][] = new int[2][2];
+        int m1[][] = new int[3][3];
+        int m2[][] = new int[3][3];
+        int soma[][] = new int[3][3];
         int somaT = 0;
 
         for (int i = 0; i < m1.length; i++) {
