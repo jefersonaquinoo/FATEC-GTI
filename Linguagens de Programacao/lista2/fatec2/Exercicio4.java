@@ -1,4 +1,4 @@
-package listaricardo;
+package fatec2;
 
 import java.util.Scanner;
 
