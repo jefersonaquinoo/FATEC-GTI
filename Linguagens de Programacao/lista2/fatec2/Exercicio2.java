@@ -1,6 +1,6 @@
 /*
 Some os elementos pares de um vetor e 
-  escreva o resultado na tela.
+  escreva o resultado na tela. 
 */
 
 package fatec2;

@@ -1,4 +1,4 @@
-/*Crie um programa que faça a soma de duas matrizes 3x3. */
+/*Crie um programa que faça a soma de duas matrizes [3x3]. */
 
 package fatec2;
 
