@@ -1,4 +1,9 @@
-package listaricardo;
+/*Utilizando a estrutura de repetição for, 
+ * faça algoritmo que leia 10 números e 
+ * verifique quantos deles estão no intervalo de 10 a 20, e 
+ * quantos estão fora do intervalo. */
+
+package fatec2;
 
 import java.util.Scanner;
 

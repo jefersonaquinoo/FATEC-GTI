@@ -1,4 +1,9 @@
-package listaricardo;
+/* 
+ *Crie um algoritmo de leia um vetor de inteiros positivos e 
+  substitua seus elementos de valor ímpar por -1 e os pares por +1.
+*/
+
+package fatec2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
