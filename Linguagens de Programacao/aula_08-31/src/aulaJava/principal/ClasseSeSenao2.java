@@ -1,9 +1,12 @@
+//ClasseSeSenao
+//
+
 package aulaJava.principal;
 
 public class ClasseSeSenao2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 	
 	int notal = 50;
 	int nota2 = 60;

@@ -1,3 +1,6 @@
+// calculadora IMC
+// com com duas casas decimais
+
 package AulaJava;
 
 import java.text.DecimalFormat;
@@ -5,8 +8,7 @@ import java.text.DecimalFormat;
 public class CalculoImc {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		double peso = 70.5;
 		double altura = 1.65;
 		double imc = peso/(altura*2);

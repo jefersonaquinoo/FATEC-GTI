@@ -1,10 +1,12 @@
+//CLASSE FOR = PARA
+
 package aulaJava.principal;
 
 public class ClassePara1 {
 
 	public static void main(String[] args) {
 		
-		//CLASSE FOR = PARA
+		
 
 		// numeros crescentes
 		for(int numero =0; numero<=10;numero++) {

@@ -1,3 +1,7 @@
+/*9. Faça um algoritmo leia N números é 
+  mostre sua somatória até que atinja 100.
+ * */
+
 package AulaJava;
 
 import javax.swing.JOptionPane;
@@ -5,8 +9,7 @@ import javax.swing.JOptionPane;
 public class Somatoria100 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 	int num, i=0, soma =0;
 	do{
 		String numS = JOptionPane.showInputDialog("Digite um número  \n Para sair digite 0(zero) ");

@@ -1,3 +1,8 @@
+/*Faça um algoritmo que calcule o 
+  rendimento de uma poupança sabendo 
+  que eu juro fixo é de 1% ao mês .
+  0 usuário e informa o valor depositado.
+*/
 package AulaJava;
 
 import javax.swing.JOptionPane;

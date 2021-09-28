@@ -1,11 +1,14 @@
+// primeiro exemplo
+//
+
 package aulaJava.principal;
 
 public class ClasseSeSenao {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		// primeiro exemplo
+		
+		
+		
 
 		int media = 75;
 		String nome = "Andreia";

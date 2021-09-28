@@ -1,3 +1,8 @@
+/*9. Faça um algoritmo leia N números é 
+  mostre sua somatória 
+  até que atinja 100.
+  */
+
 package fatec;
 
 import javax.swing.*;

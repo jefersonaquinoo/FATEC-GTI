@@ -1,3 +1,8 @@
+/*8. Escreva um algoritmo que conte quantos valores foram digitados 
+  pelo usuário 
+  até que seja digitado o valor Zero.
+  */
+
 package fatec;
 
 import javax.swing.*;

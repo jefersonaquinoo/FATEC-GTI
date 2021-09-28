@@ -1,3 +1,8 @@
+/*6. Faça um algoritmo que calcule o rendimento de uma poupança 
+  sabendo que eu juro fixo é de 1% ao mês .
+  O usuário e informa o valor depositado.
+  */
+
 package fatec;
 
 import javax.swing.*;

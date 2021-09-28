@@ -1,10 +1,11 @@
+//
+//
 package aulaJava.principal;
 
 public class ClasseSeSenao3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-	
+		
 	int notal = 90;
 	int nota2 = 60;
 	int nota3 = 70;

@@ -1,3 +1,8 @@
+/*3. Escreva um algoritmo para determinar o consumo médio de um automóvel 
+ * sendo fornecido a quilometragem inicial a quilometragem final e 
+ * a quantidade de litros consumidos.
+ */
+
 package fatec;
 
 import javax.swing.*;

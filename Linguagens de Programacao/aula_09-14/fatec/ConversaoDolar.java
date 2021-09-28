@@ -1,3 +1,8 @@
+/*5. Escreva um algoritmo que faça a conversão de reais para dólar. 
+  para isso é necessário solicitar do usuário a cotação do dólar e 
+  a quantidade de reais que o usuário possui.
+  */
+
 package fatec;
 
 import javax.swing.*;

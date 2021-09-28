@@ -1,3 +1,8 @@
+/*2. Ler 2 valores verificar 
+  se o primeiro é maior que o segundo, 
+  se for subtrair, senão somar.
+  */
+
 package AulaJava;
 
 import javax.swing.JOptionPane;
@@ -5,8 +10,7 @@ import javax.swing.JOptionPane;
 public class SomarDoisValores {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		String num1= JOptionPane.showInputDialog("Digite um número inteiro:");
 		String num2= JOptionPane.showInputDialog("Digite outro número inteiro:");
 		

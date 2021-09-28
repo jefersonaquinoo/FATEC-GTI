@@ -1,3 +1,5 @@
+// leia 10 numeros e imprima a metade
+
 package AulaJava;
 
 import java.util.Scanner;
@@ -5,8 +7,7 @@ import java.util.Scanner;
 public class Metade {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// leia 10 numeros e imprima a metade
+				
 	
 		Scanner entrada = new Scanner(System.in);
 					

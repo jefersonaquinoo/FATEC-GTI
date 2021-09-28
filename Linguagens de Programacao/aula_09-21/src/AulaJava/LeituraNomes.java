@@ -1,3 +1,6 @@
+//Escreva um algoritmo que 
+//leia 20 nomes
+
 package AulaJava;
 
 import java.util.Scanner;
@@ -5,8 +8,7 @@ import java.util.Scanner;
 public class LeituraNomes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//leia 20 nomes
+				
 		
 		int num, i;
 		Scanner entrada = new Scanner(System.in);

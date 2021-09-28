@@ -3,6 +3,7 @@ package aulaJava.principal;
 public class PrimeiraClasseJava {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
 		// exemplo1
 //		int numero =10;

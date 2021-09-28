@@ -1,3 +1,13 @@
+/*4. Escreva um algoritmo que leia o nome de um funcionário, o 
+  seu salário fixo, e 
+  o total de vendas efetuadas por ele durante um mês. 
+  sabe-se que este funcionário recebe 15% sobre suas vendas. 
+  Informar ao final 
+  o nome do funcionário 
+  o salário fixo e 
+  o salário atualizado.
+ */
+
 package fatec;
 
 import javax.swing.*;
