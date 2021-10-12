@@ -8,7 +8,6 @@
   o salário atualizado.
  */
 
-package fatec;
 
 import javax.swing.*;
 

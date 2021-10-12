@@ -4,7 +4,7 @@
  * quantos estão fora do intervalo. 
  */
 
-package fatec2;
+
 
 import java.util.Scanner;
 

@@ -3,7 +3,6 @@
   até que atinja 100.
   */
 
-package fatec;
 
 import javax.swing.*;
 

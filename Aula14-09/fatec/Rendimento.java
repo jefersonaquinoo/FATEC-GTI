@@ -3,7 +3,6 @@
   O usuário e informa o valor depositado.
   */
 
-package fatec;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

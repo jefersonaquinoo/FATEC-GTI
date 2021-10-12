@@ -3,7 +3,6 @@
   até que o numero lido seja 0 (zero).
   */
 
-package fatec;
 
 import javax.swing.*;
 

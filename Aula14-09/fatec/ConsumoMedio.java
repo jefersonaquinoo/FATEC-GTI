@@ -3,7 +3,6 @@
  * a quantidade de litros consumidos.
  */
 
-package fatec;
 
 import javax.swing.*;
 

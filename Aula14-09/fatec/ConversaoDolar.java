@@ -3,7 +3,6 @@
   a quantidade de reais que o usuário possui.
   */
 
-package fatec;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

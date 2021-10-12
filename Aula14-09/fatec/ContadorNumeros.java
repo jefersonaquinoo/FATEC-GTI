@@ -3,7 +3,6 @@
   até que seja digitado o valor Zero.
   */
 
-package fatec;
 
 import javax.swing.*;
 

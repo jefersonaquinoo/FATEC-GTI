@@ -2,7 +2,6 @@
 se o primeiro é maior que o segundo, se for subtrair, 
   senão somar.*/
 
-package fatec;
 
 import javax.swing.*;
 
